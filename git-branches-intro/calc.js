@@ -1,4 +1,4 @@
-const calc = (a,b) =>{
+const calc = (d,e) =>{
     return a + b
 }
 
