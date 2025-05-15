@@ -11,7 +11,7 @@ git init
 
 ```bash
 git add
-git commit -m "Added new file"
+git commit -m "Bossman wants this change to Hello"
 git push
 ```
 
