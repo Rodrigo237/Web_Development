@@ -14,3 +14,8 @@ git add .
 git commit -m "added new file"
 git push
 ```
+
+```bash
+git bash
+git switch main
+```
