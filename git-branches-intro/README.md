@@ -1,6 +1,6 @@
 # Git  Branches Intro
 
-this is my **Git Branches Intro** repository. Let's learn *branching*
+this is our **Git Branches Intro** repository. Let's learn *branching*
 
 ## Intructions
 
@@ -11,13 +11,13 @@ git init
 
 ```bash
 git add
-git commit -m "Bossman wants this change to Hello World"
+git commit -m "Bossman wants this change to Whats up"
 git push
 ```
 
 ```bash
 git branch
-git switch main
+git switch dev
 ```
 
 ##Presentation 
