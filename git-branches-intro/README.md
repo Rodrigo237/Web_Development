@@ -1,4 +1,7 @@
 # Git  Branches Intro
+
+this is my **Git Branches Intro** repository. Let's learn *branching*
+
 ## Intructions
 
 
