@@ -19,4 +19,4 @@ git switch main
 
 ##Presentation 
 
-Presentation will be on May 16. Quiz will be follow afterward
+Presentation will be on May 20 Quiz will be follow afterward
