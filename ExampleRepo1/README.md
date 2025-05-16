@@ -3,3 +3,5 @@
 This is an example repository
 
 This is anothe paragraph
+
+More information
